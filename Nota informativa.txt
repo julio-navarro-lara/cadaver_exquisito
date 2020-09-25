@@ -1,0 +1,4 @@
+Julio Navarro Lara
+
+Para ejecutar el programa, primero poner en marcha el servidor (clase servidorCE), y luego el programa de cada
+usuario (clase CadaverExquisito).
